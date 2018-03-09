@@ -44,3 +44,4 @@ screeplot(ant_pca, type = "lines") # Shows the same information
 biplot(ant_pca, cex = 0.5)
 ```
 
+Some edit to this.
